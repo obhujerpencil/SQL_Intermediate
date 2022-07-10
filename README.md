@@ -104,6 +104,7 @@ select * from EmployeeDemographics
 ```
 ![delete](https://user-images.githubusercontent.com/63474307/178132873-bf2c7975-ec46-44f9-bbe3-6f3985c40c05.jpg)
 ## Partion
+#### Group satements cuts down the number of rows by rolling them up but with the help of partition we can get all the rows and aggregate things corrosponding to them.
 ```bash
 select FirstName,Gender,
 count(EmployeeID) over (partition by Gender) as Total_Gender
