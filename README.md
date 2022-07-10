@@ -116,11 +116,6 @@ from EmployeeDemographics
 select FirstName+' '+LastName as Full_Name, Age 
 from EmployeeDemographics
 ```
-
-
-
-
-
 ![aliasing](https://user-images.githubusercontent.com/63474307/178135705-cc87b1ee-ac43-4729-baae-81dbbc6914ae.jpg)
 ## Bye bye.,...
 ![lol](https://user-images.githubusercontent.com/63474307/178136454-d99ce168-654f-48de-9c06-78ae0266c8d9.gif)
