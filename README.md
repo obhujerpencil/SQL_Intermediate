@@ -109,8 +109,8 @@ select * from EmployeeDemographics
 select FirstName,Gender,
 count(EmployeeID) over (partition by Gender) as Total_Gender
 from EmployeeDemographics
-![partition](https://user-images.githubusercontent.com/63474307/178132874-e13ca4ae-a4fb-4a6f-8ff7-5a64cb3d0164.jpg)
 ```
+![partition](https://user-images.githubusercontent.com/63474307/178132874-e13ca4ae-a4fb-4a6f-8ff7-5a64cb3d0164.jpg)
 ## Aliasing
 ```bash
 select FirstName+' '+LastName as Full_Name, Age 
