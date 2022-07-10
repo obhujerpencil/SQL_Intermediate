@@ -1,5 +1,5 @@
 # SQL_Intermediate
-Add later
+Join, union, having clause, update, delete, aliasing and partition
 ## Initial Tables
 ![Initial_Table_1](https://user-images.githubusercontent.com/63474307/178132848-3717377a-54d1-47a1-a7ee-e8021c000e88.jpg)
 ![Initial_Table_2](https://user-images.githubusercontent.com/63474307/178132850-44181882-4d73-4528-a76e-8febc098431e.jpg)
