@@ -34,6 +34,7 @@ on demo.EmployeeID=sal.EmployeeID
 ```
 ![left_outer_join](https://user-images.githubusercontent.com/63474307/178132859-3b3779a3-7236-414f-84e7-92c8d592b11b.jpg)
 ## Join
+#### Join is inner join by default.
 ```bash
 select FirstName,Job,Salary from EmployeeDemographics as demo
 join EmployeeSalary as sal
