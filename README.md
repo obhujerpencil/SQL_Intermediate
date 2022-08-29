@@ -5,6 +5,12 @@ Join, union, having clause, update, delete, aliasing and partition
 ![Initial_Table_2](https://user-images.githubusercontent.com/63474307/178132850-44181882-4d73-4528-a76e-8febc098431e.jpg)
 ## Venn representation of join
 ![Sql_Join](https://user-images.githubusercontent.com/63474307/178132883-723f65d8-3d6c-44b8-a3a1-21fb43caa003.jpg)
+
+
+
+![WhatsApp Image 2022-08-29 at 9 31 45 AM](https://user-images.githubusercontent.com/63474307/187120652-a6f9b32c-c471-41e8-a4b9-bb74e1975cb6.jpeg)
+
+
 ## Inner join
 ```bash
 select FirstName,Job,Salary from EmployeeDemographics as demo
