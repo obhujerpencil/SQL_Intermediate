@@ -87,6 +87,7 @@ on dem.EmployeeID=sal.EmployeeID
 ![case](https://user-images.githubusercontent.com/63474307/178132866-75b2cac7-55fc-4c10-b2a5-e20ac89ecf32.jpg)
 ## Having clause
 #### Where clause throws error while working with aggregate like min, max & count so we need to use the having clause <br>
+Use group by with having clause.
 ```bash
 select Job,count(Job) as Vaccancies 
 from EmployeeSalary
