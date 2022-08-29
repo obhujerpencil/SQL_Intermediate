@@ -73,6 +73,7 @@ order by Age asc
 ```
 ![Union](https://user-images.githubusercontent.com/63474307/178132862-4b7f654e-6c76-4223-a3bd-abb383362da9.jpg)
 ## Case statement
+Case Statement is like conditional statement. It can be used to create additional columns based on logic.
 ```bash
 select FirstName,Age,Salary,
 case
